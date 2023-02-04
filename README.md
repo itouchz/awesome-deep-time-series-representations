@@ -20,22 +20,20 @@ Curated list of state-of-the-art papers on time series data mining with deep neu
 - [](), , 
 - [](), , 
 
-## Query by Content
-
-## Forecasting (i.e., Prediction or Regression)
-
 ## Classification
 
 
-## Clustering
+## Regression and Forecasting
 
-## Anomaly Detection
+## Anomaly/Outlier Detection
 
 
-## Segmentation
+## Clustering and Segmentation
 
-## Motif Discovery
+## Imputation and Irregular Sampled Time Series
 
-## Representation Learning
+## Query by Contents and Similarity Matching
+
+## Universal Representation Learning
 
 
