@@ -1,4 +1,4 @@
-# Deep Learning for Universal Representation of Time Series
+# Deep Learning for Universal Representations of Time Series
 
 ## Related Surveys
 
