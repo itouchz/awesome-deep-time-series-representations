@@ -72,7 +72,7 @@
 | [A Survey on Protein Representation Learning: Retrospect and Prospect](https://arxiv.org/abs/2301.00813)      |        Westlake University        |              arXiv              |   2023   |
 
 
-## Research Papers on Time-Series Representation Learning (Chronologically Ordered)
+## Research Papers on Time-Series Representation Learning
 > **Latest Update**: ICML 2023
 
 ### 2023
