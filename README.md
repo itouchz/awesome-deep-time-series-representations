@@ -72,21 +72,17 @@
 | [A Survey on Protein Representation Learning: Retrospect and Prospect](https://arxiv.org/abs/2301.00813)      |        Westlake University        |              arXiv              |   2023   |
 
 
-## Research Papers on Time-Series Representation Learning
+## Research Papers
 > **Latest Update**: ICML 2023
 
-### 2023
+### Architecture-based Approach
 
-### 2022
+### Learning-based Approach
 
-### 2021
-
-### 2020
-
-### Before 2020
+### Data-centric or Data Augmentation-based Approach
 
 
 ## Citation
-```
+```bibtex
 TBD
 ```
