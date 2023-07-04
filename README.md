@@ -1,7 +1,7 @@
 # Deep Learning for Universal Representations of Time Series
 
 ## Related Surveys
-> **Latest Update**: June, 2023
+> **Latest Update**: July, 2023
 ### Time-Series Data Mining and Analysis
 | **Title**                                                                                         |                  **Affiliation**                  |              **Venue**              | **Year** |
 |---------------------------------------------------------------------------------------------------|:-------------------------------------------------:|:-----------------------------------:|:--------:|
@@ -43,6 +43,7 @@
 | [Diffusion Models for Time Series Applications: A Survey](https://arxiv.org/abs/2305.00624)                                           |                University of Sydney               |                arXiv                |   2023   |
 | [A Survey on Time-Series Pre-Trained Models](https://arxiv.org/abs/2305.10716)                                                        |        South China University of Technology       |                arXiv                |   2023   |
 | [Self-Supervised Contrastive Learning for Medical Time Series: A Systematic Review](https://www.mdpi.com/1424-8220/23/9/4221)                 |                  RMIT University                  |             MDPI Sensors            |   2023   |
+| [Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2306.10125) | Zhejiang University | arXiv | 2023 |
 
 
 ### Representation Learning
