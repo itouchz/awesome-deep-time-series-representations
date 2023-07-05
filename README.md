@@ -74,7 +74,7 @@
 
 
 ## Research Papers
-> **Latest Update**: ICML 2023
+> **Latest Update**: KDD 2023
 
 ### Architecture-based Approach
 
