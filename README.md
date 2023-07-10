@@ -76,11 +76,11 @@
 ## Research Papers
 > **Latest Update**: KDD 2023
 
-### Architecture-based Approach
+### Neural Architectural Approaches
 
-### Learning-based Approach
+### Learning-based Approaches
 
-### Data-centric or Data Augmentation-based Approach
+### Data-Centric Approaches
 
 
 ## Citation
