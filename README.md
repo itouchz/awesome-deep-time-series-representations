@@ -94,3 +94,4 @@ TBD
 - https://github.com/qingsongedu/time-series-transformers-review				
 - https://github.com/lixus7/Time-Series-Works-Conferences				
 - https://github.com/qingsongedu/Awesome-TimeSeries-AIOps-LM-LLM
+- https://github.com/qingsongedu/Awesome-SSL4TS
