@@ -76,7 +76,7 @@
 ## Research Papers
 > **Latest Update**: KDD 2023
 
-### Neural Architectural Approaches
+### Neural Architecture-based Approaches
 
 ### Learning-based Approaches
 
