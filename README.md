@@ -1,7 +1,7 @@
 # Deep Learning for Universal Representations of Time Series
 
 ## Related Surveys
-> **Latest Update**: July, 2023
+> **Latest Update**: August, 2023
 ### Time-Series Data Mining and Analysis
 | **Title**                                                                                         |                  **Affiliation**                  |              **Venue**              | **Year** |
 |---------------------------------------------------------------------------------------------------|:-------------------------------------------------:|:-----------------------------------:|:--------:|
