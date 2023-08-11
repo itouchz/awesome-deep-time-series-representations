@@ -44,6 +44,7 @@
 | [A Survey on Time-Series Pre-Trained Models](https://arxiv.org/abs/2305.10716)                                                        |        South China University of Technology       |                arXiv                |   2023   |
 | [Self-Supervised Contrastive Learning for Medical Time Series: A Systematic Review](https://www.mdpi.com/1424-8220/23/9/4221)                 |                  RMIT University                  |             MDPI Sensors            |   2023   |
 | [Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2306.10125) | Zhejiang University | arXiv | 2023 |
+| [Unsupervised Representation Learning for Time Series: A Review](https://arxiv.org/abs/2308.01578) |  Shandong University | arXiv | 2023 |
 
 
 ### Representation Learning
