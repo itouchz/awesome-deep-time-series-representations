@@ -1,5 +1,28 @@
 # Deep Learning for Universal Representations of Time Series
 
+This is a repository to help all readers who are interested in learning universal representations of time series with deep learning.
+
+If your papers are missing or you have other requests, please contact to patara.t@ku.th or create a pull request. <br/>
+We will update this repository a regular basis in accordance with the top-tier conference publication cycles to maintain up-to-date.
+
+> **Accompanying Paper**: Deep Learning for Universal Representations of Time Series: A Survey _submitted to_ ACM Computing Surveys
+```bibtex
+TBD
+```
+
+## Proposed Taxonomy
+![proposed taxonomy](/taxonomy.png "Taxonomy regarding Deep Learning for Universal Representations of Time Series")
+
+## Contents
+- [Related Survey Papers](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#related-surveys)
+  - [Time-Series Data Mining and Analysis](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#time-series-data-mining-and-analysis)
+  - [General Representation Learning](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#representation-learning)
+- [Research Papers](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#research-papers)
+  - [Architecture-based Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#neural-architecture-based-approaches)
+  - [Learning-based Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#learning-based-approaches)
+  - [Data-Centric Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#data-centric-approaches)
+- [Other Repositories](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#neighbor-repositories)
+
 ## Related Surveys
 > **Latest Update**: August, 2023
 ### Time-Series Data Mining and Analysis
@@ -77,17 +100,14 @@
 ## Research Papers
 > **Latest Update**: KDD 2023
 
-### Neural Architecture-based Approaches
+### Neural Network Architecture-based Approaches
+> This group of studies focus on ...
 
 ### Learning-based Approaches
+> This group of studies focus on ...
 
 ### Data-Centric Approaches
-
-
-## Citation
-```bibtex
-TBD
-```
+> This group of studies focus on ...
 
 ## Neighbor Repositories
 - https://github.com/qingsongedu/awesome-AI-for-time-series-papers
