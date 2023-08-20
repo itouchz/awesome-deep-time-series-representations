@@ -5,7 +5,7 @@ This is a repository to help all readers who are interested in learning universa
 If your papers are missing or you have other requests, please contact patara.t@ku.th, post an issue, or create a pull request. <br/>
 We will update this repository a regular basis in accordance with the top-tier conference publication cycles to maintain up-to-date.
 
-> **Accompanying Paper**: Deep Learning for Universal Representations of Time Series: A Survey _submitted to_ ACM Computing Surveys
+> **Accompany Paper**: Deep Learning for Universal Representations of Time Series: A Survey _submitted to_ ACM Computing Surveys
 ```bibtex
 TBD
 ```
@@ -23,8 +23,8 @@ TBD
   - [Data-Centric Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#data-centric-approaches)
 - [Other Repositories](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#neighbor-repositories)
 
-## Related Surveys
-> **Latest Update**: August, 2023
+## Related Surveys (Latest Update: August, 2023)
+
 ### Time-Series Data Mining and Analysis
 | **Title**                                                                                         |                  **Affiliation**                  |              **Venue**              | **Year** |
 |---------------------------------------------------------------------------------------------------|:-------------------------------------------------:|:-----------------------------------:|:--------:|
@@ -97,14 +97,13 @@ TBD
 | [A Survey on Protein Representation Learning: Retrospect and Prospect](https://arxiv.org/abs/2301.00813)      |        Westlake University        |              arXiv              |   2023   |
 
 
-## Research Papers
-> **Latest Update**: KDD 2023
+## Research Papers (Latest Update: KDD 2023)
 
 ### Neural Network Architecture-based Approaches
-> This group of studies focus on ...
+> This group of studies focus on designing and modifying of ...
 
 ### Learning-based Approaches
-> This group of studies focus on ...
+> This group of studies focus on objective function based on ...
 
 ### Data-Centric Approaches
 > This group of studies focus on ...
