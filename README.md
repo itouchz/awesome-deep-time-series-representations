@@ -2,7 +2,7 @@
 
 This is a repository to help all readers who are interested in learning universal representations of time series with deep learning.
 
-If your papers are missing or you have other requests, please contact patara.t@ku.th, post an issue, or create a pull request. <br/>
+If your papers are missing or you have other requests, please contact patara.t@ku.th, post an issue, or create a pull request.
 We will update this repository a regular basis in accordance with the top-tier conference publication cycles to maintain up-to-date.
 
 > **Accompany Paper**: Deep Learning for Universal Representations of Time Series: A Survey _submitted to_ ACM Computing Surveys
