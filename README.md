@@ -23,7 +23,7 @@ TBD
   - [Data-Centric Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#data-centric-approaches)
 - [Other Repositories](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#neighbor-repositories)
 
-## Related Surveys (Latest Update: August, 2023)
+## Related Surveys (Latest Update: October, 2023)
 
 ### Time-Series Data Mining and Analysis
 | **Title**                                                                                         |                  **Affiliation**                  |              **Venue**              | **Year** |
@@ -68,6 +68,7 @@ TBD
 | [Self-Supervised Contrastive Learning for Medical Time Series: A Systematic Review](https://www.mdpi.com/1424-8220/23/9/4221)                 |                  RMIT University                  |             MDPI Sensors            |   2023   |
 | [Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2306.10125) | Zhejiang University | arXiv | 2023 |
 | [Unsupervised Representation Learning for Time Series: A Review](https://arxiv.org/abs/2308.01578) |  Shandong University | arXiv | 2023 |
+| [Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook](https://arxiv.org/abs/2310.10196) | Monash University | arXiv | 2023 |
 
 
 ### Representation Learning
@@ -97,7 +98,7 @@ TBD
 | [A Survey on Protein Representation Learning: Retrospect and Prospect](https://arxiv.org/abs/2301.00813)      |        Westlake University        |              arXiv              |   2023   |
 
 
-## Research Papers (Latest Update: KDD 2023)
+## Research Papers (Latest Update: NeurIPS 2023)
 
 ### Neural Network Architecture-based Approaches
 > This group of studies focus on designing and modifying of ...
