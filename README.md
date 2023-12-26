@@ -108,6 +108,14 @@ TBD
 
 ### Data-Centric Approaches
 > This group of studies focus on ...
+> In this group, we categorize the methods that focus on finding a new way to enhance the usefulness of the training data at hand. Data-centric approaches prioritize engineering the data itself rather than focusing on model architecture and loss function design. We categorize data-centric approaches into three techniques: data augmentation, decomposition and transformation, and sample selection.
+
+#### Data Augmentation
+
+#### Decomposition and Transformation
+
+#### Sample Selection
+
 
 ## Neighbor Repositories
 - https://github.com/qingsongedu/awesome-AI-for-time-series-papers
