@@ -11,7 +11,8 @@ TBD
 ```
 
 ## Proposed Taxonomy
-![proposed taxonomy](/taxonomy.png "Taxonomy regarding Deep Learning for Universal Representations of Time Series")
+![proposed taxonomy](https://github.com/itouchz/awesome-deep-time-series-representations/assets/12752812/9b163293-f065-4e12-aff0-87baf87507d1 "Taxonomy regarding Deep Learning for Universal Representations of Time Series")
+
 
 ## Contents
 - [Related Survey Papers](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#related-surveys)
