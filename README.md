@@ -101,7 +101,7 @@ TBD
 
 ## Research Papers (Latest Update: NeurIPS 2023)
 
-### Neural Network Architecture-based Approaches
+### Neural Architectural Approaches
 > Studies in this group focus on the novel design of neural architectures by combining basic building blocks or redesigning a neural architecture from scratch to improve the capability of capturing temporal dependencies and inter-relationships between variables of multivariate time series. We can further categorize the studies into the basic block combination and innovative redesign categories based on the degree of architecture adjustment.
 
 #### Basic Block Combination
@@ -115,7 +115,7 @@ TBD
 
 #### Unsupervised Learning
 
-### Self-Supervised Learning
+#### Self-Supervised Learning
 
 ### Data-Centric Approaches
 > In this group, we categorize the methods that focus on finding a new way to enhance the usefulness of the training data at hand. Data-centric approaches prioritize engineering the data itself rather than focusing on model architecture and loss function design. We categorize data-centric approaches into three techniques: data augmentation, decomposition and transformation, and sample selection.
