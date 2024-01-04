@@ -1,11 +1,9 @@
 # Awesome Deep Time-Series Representations
 
-This is a repository to help all readers who are interested in learning universal representations of time series with deep learning.
-
-If your papers are missing or you have other requests, please contact _patara.t@ku.th_, post an issue, or create a pull request.
+This is a repository to help all readers who are interested in learning universal representations of time series with deep learning. If your papers are missing or you have other requests, please post an issue, create a pull request, or contact _patara.t@ku.th_.
 We will update this repository at a regular basis in accordance with the top-tier conference publication cycles to maintain up-to-date.
 
-> **Accompany Paper**: Universal Time-Series Representation Learning: A Survey _submitted to_ ACM Computing Surveys
+> **Accompanying Paper**: Universal Time-Series Representation Learning: A Survey
 ```bibtex
 TBD
 ```
