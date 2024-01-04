@@ -19,8 +19,8 @@ TBD
   - [Time-Series Data Mining and Analysis](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#time-series-data-mining-and-analysis)
   - [General Representation Learning](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#representation-learning)
 - [Research Papers](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#research-papers)
-  - [Architecture-based Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#neural-architecture-based-approaches)
-  - [Learning-based Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#learning-based-approaches)
+  - [Neural Architectural Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#neural-architectural-approaches)
+  - [Learning-Focused Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#learning-focused-approaches)
   - [Data-Centric Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#data-centric-approaches)
 - [Other Repositories](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#neighbor-repositories)
 
