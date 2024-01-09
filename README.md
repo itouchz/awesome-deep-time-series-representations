@@ -5,7 +5,12 @@ We will update this repository at a regular basis in accordance with the top-tie
 
 > **Accompanying Paper**: Universal Time-Series Representation Learning: A Survey
 ```bibtex
-TBD
+@article{trirat2024universal,
+  title={Universal Time-Series Representation Learning: A Survey},
+  author={Patara Trirat and Yooju Shin and Junhyeok Kang and Youngeun Nam and Jihye Na and Minyoung Bae and Joeun Kim and Byunghyun Kim and Jae-Gil Lee},
+  journal={arXiv preprint arXiv:2401.03717},
+  year={2024}
+}
 ```
 
 ## Proposed Taxonomy
