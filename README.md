@@ -2,8 +2,9 @@
 
 This is a repository to help all readers who are interested in learning universal representations of time series with deep learning. If your papers are missing or you have other requests, please post an issue, create a pull request, or contact _patara.t@ku.th_.
 We will update this repository at a regular basis in accordance with the top-tier conference publication cycles to maintain up-to-date.
+> Next Batch: AAAI 2024, ICLR 2024, and WWW 2024
 
-> **Accompanying Paper**: Universal Time-Series Representation Learning: A Survey
+**Accompanying Paper**: Universal Time-Series Representation Learning: A Survey
 ```bibtex
 @article{trirat2024universal,
   title={Universal Time-Series Representation Learning: A Survey},
