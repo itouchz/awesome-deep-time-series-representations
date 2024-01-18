@@ -4,7 +4,7 @@ This is a repository to help all readers who are interested in learning universa
 We will update this repository at a regular basis in accordance with the top-tier conference publication cycles to maintain up-to-date.
 > Next Batch: AAAI 2024, ICLR 2024, and WWW 2024
 
-**Accompanying Paper**: Universal Time-Series Representation Learning: A Survey
+**Accompanying Paper**: [Universal Time-Series Representation Learning: A Survey](https://arxiv.org/abs/2401.03717)
 ```bibtex
 @article{trirat2024universal,
   title={Universal Time-Series Representation Learning: A Survey},
