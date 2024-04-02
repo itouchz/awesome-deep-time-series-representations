@@ -1,6 +1,6 @@
 # Awesome Deep Time-Series Representations
 
-This is a repository to help all readers who are interested in learning universal representations of time series with deep learning. If your papers are missing or you have other requests, please post an issue, create a pull request, or contact _patara.t@ku.th_.
+This is a repository to help all readers who are interested in learning universal representations of time series with deep learning. If your papers are missing or you have other requests, please post an issue, create a pull request, or contact _patara.t@kaist.ac.kr_.
 We will update this repository at a regular basis in accordance with the top-tier conference publication cycles to maintain up-to-date.
 > Next Batch: ICDM 2024, CIKM 2024, KDD 2024, ICML 2024, NeurIPS 2024
 
