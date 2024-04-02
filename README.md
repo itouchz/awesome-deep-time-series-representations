@@ -32,7 +32,7 @@ We will update this repository at a regular basis in accordance with the top-tie
 
 ### Time-Series Data Mining and Analysis
 | **Title**                                                                                         |                  **Affiliation**                  |              **Venue**              | **Year** |
-|:---------------------------------------------------------------------------------------------------|:-------------------------------------------------:|:-----------------------------------:|:--------:|
+|---------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------|--------|
 | [Discrete Wavelet Transform-based Time Series Analysis and Mining](https://dl.acm.org/doi/abs/10.1145/1883612.1883613)                                  |               University of Maryland              |               ACM CSUR              |   2011   |
 | [Time-Series Data Mining](https://dl.acm.org/doi/10.1145/2379776.2379788)                                                                           |                       IRCAM                       |               ACM CSUR              |   2012   |
 | [A Review of Unsupervised Feature Learning and Deep Learning for Time-Series Modeling](https://www.sciencedirect.com/science/article/pii/S0167865514000221)              |                 Örebro University                 |     Pattern Recognition Letters     |   2014   |
@@ -79,8 +79,8 @@ We will update this repository at a regular basis in accordance with the top-tie
 | [Empowering Time Series Analysis with Large Language Models: A Survey](https://arxiv.org/pdf/2402.03182.pdf) | University of Connecticut                          | arxiv | 2024 |
 
 ### Representation Learning
-| **Title**                                                                                                            |          **Affiliation**          |            **Venue**            | **Year** |
-|:----------------------------------------------------------------------------------------------------------------------|:---------------------------------:|:-------------------------------:|:--------:|
+| **Title**                                                                                                            |          **Affiliation**          | **Venue** | **Year** |
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------------------------|--------|
 | [Representation Learning: A Review and New Perspectives](https://ieeexplore.ieee.org/document/6472238)                                                               |       University of Montreal      |            IEEE TPAMI           |   2013   |
 | [A Survey of Multi-View Representation Learning](https://ieeexplore.ieee.org/abstract/document/8471216)                                                                       |        Zhejiang University        |            IEEE TKDE            |   2019   |
 | [Deep Multimodal Representation Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/8715409/)                                                                    |         Fuzhou University         |           IEEE Access           |   2019   |
