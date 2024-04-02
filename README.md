@@ -74,7 +74,9 @@ We will update this repository at a regular basis in accordance with the top-tie
 | [Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2306.10125) | Zhejiang University | arXiv | 2023 |
 | [Unsupervised Representation Learning for Time Series: A Review](https://arxiv.org/abs/2308.01578) |  Shandong University | arXiv | 2023 |
 | [Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook](https://arxiv.org/abs/2310.10196) | Monash University | arXiv | 2023 |
-
+| [Foundation Models for Time Series Analysis: A Tutorial and Survey](https://arxiv.org/pdf/2403.14735.pdf)    | The Hong Kong University of Science and Technology | arXiv | 2024 |
+| [Large Language Models for Time Series: A Survey](https://arxiv.org/pdf/2402.01801.pdf)                      | University of California, San Diego                | arxiv | 2024 |
+| [Empowering Time Series Analysis with Large Language Models: A Survey](https://arxiv.org/pdf/2402.03182.pdf) | University of Connecticut                          | arxiv | 2024 |
 
 ### Representation Learning
 | **Title**                                                                                                            |          **Affiliation**          |            **Venue**            | **Year** |
