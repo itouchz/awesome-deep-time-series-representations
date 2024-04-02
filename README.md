@@ -28,7 +28,7 @@ We will update this repository at a regular basis in accordance with the top-tie
   - [Data-Centric Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#data-centric-approaches)
 - [Other Repositories](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#neighbor-repositories)
 
-## Related Surveys (Latest Update: October, 2023)
+## Related Surveys (Latest Update: April, 2024)
 
 ### Time-Series Data Mining and Analysis
 | **Title**                                                                                         |                  **Affiliation**                  |              **Venue**              | **Year** |
