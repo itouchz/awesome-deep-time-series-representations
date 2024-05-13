@@ -28,7 +28,7 @@ We will update this repository at a regular basis in accordance with the top-tie
   - [Data-Centric Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#data-centric-approaches)
 - [Other Repositories](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#neighbor-repositories)
 
-## Related Surveys (Latest Update: April, 2024)
+## Related Surveys (Latest Update: May, 2024)
 
 ### Time-Series Data Mining and Analysis
 | **Title**                                                                                         |                  **Affiliation**                  |              **Venue**              | **Year** |
@@ -77,6 +77,7 @@ We will update this repository at a regular basis in accordance with the top-tie
 | [Foundation Models for Time Series Analysis: A Tutorial and Survey](https://arxiv.org/pdf/2403.14735.pdf)    | The Hong Kong University of Science and Technology | arXiv | 2024 |
 | [Large Language Models for Time Series: A Survey](https://arxiv.org/pdf/2402.01801.pdf)                      | University of California, San Diego                | arxiv | 2024 |
 | [Empowering Time Series Analysis with Large Language Models: A Survey](https://arxiv.org/pdf/2402.03182.pdf) | University of Connecticut                          | arxiv | 2024 |
+| [A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model](https://arxiv.org/abs/2405.02358) | Hong Kong University of Science and Technology | arxiv | 2024 |
 
 ### Representation Learning
 | **Title**                                                                                                            |          **Affiliation**          | **Venue** | **Year** |
