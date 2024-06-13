@@ -71,7 +71,7 @@ We will update this repository at a regular basis in accordance with the top-tie
 | [Diffusion Models for Time Series Applications: A Survey](https://arxiv.org/abs/2305.00624)                                           |                University of Sydney               |                arXiv                |   2023   |
 | [A Survey on Time-Series Pre-Trained Models](https://arxiv.org/abs/2305.10716)                                                        |        South China University of Technology       |                arXiv                |   2023   |
 | [Self-Supervised Contrastive Learning for Medical Time Series: A Systematic Review](https://www.mdpi.com/1424-8220/23/9/4221)                 |                  RMIT University                  |             MDPI Sensors            |   2023   |
-| [Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2306.10125) | Zhejiang University | arXiv | 2023 |
+| [Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2306.10125) | Zhejiang University | IEEE TPAMI | 2024 |
 | [Unsupervised Representation Learning for Time Series: A Review](https://arxiv.org/abs/2308.01578) |  Shandong University | arXiv | 2023 |
 | [Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook](https://arxiv.org/abs/2310.10196) | Monash University | arXiv | 2023 |
 | [Foundation Models for Time Series Analysis: A Tutorial and Survey](https://arxiv.org/pdf/2403.14735.pdf)    | The Hong Kong University of Science and Technology | arXiv | 2024 |
