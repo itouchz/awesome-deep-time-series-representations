@@ -107,7 +107,7 @@ We will update this repository at a regular basis in accordance with the top-tie
 | [A Survey on Protein Representation Learning: Retrospect and Prospect](https://arxiv.org/abs/2301.00813)      |        Westlake University        |              arXiv              |   2023   |
 
 
-## Research Papers (Latest Update: ICLR 2024)
+## Research Papers (Latest Update: ICML 2024)
 
 ### Neural Architectural Approaches
 > Studies in this group focus on the novel design of neural architectures by combining basic building blocks or redesigning a neural architecture from scratch to improve the capability of capturing temporal dependencies and inter-relationships between variables of multivariate time series. We can further categorize the studies into the basic block combination and innovative redesign categories based on the degree of architecture adjustment.
