@@ -242,6 +242,7 @@ We will update this repository at a regular basis in accordance with the top-tie
 | 2024 | [](https://openreview.net/forum?id=zm1LcgRpHm&noteId=PQ6MFEkGOn)[Segment, Shuffle, and Stitch: A Simple Layer for Improving Time-Series Representation](https://openreview.net/forum?id=zm1LcgRpHm&noteId=PQ6MFEkGOn) | NeurIPS              |
 | 2024 | [](https://openreview.net/pdf?id=tFB5SsabVb)[Graph Neural Flows for Unveiling Systemic Interactions Among Irregularly Sampled Time Series](https://openreview.net/pdf?id=tFB5SsabVb) | NeurIPS              |
 | 2024 | [](https://dl.acm.org/doi/pdf/10.1145/3627673.3679699)[Time-Series Representation Learning via Dual Reference Contrasting](https://dl.acm.org/doi/pdf/10.1145/3627673.3679699) | CIKM                 |
+| 2024 | [](https://openreview.net/pdf?id=GSnGPgeoS5)[iHyperTime: Interpretable Time Series Generation with Implicit Neural Representations](https://openreview.net/pdf?id=GSnGPgeoS5) | TMLR              |
 | 2025 | [](https://arxiv.org/abs/2412.11376)[ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data](https://arxiv.org/abs/2412.11376)              | AAAI |
 | 2025 | [](https://arxiv.org/abs/2412.08906)[Federated Foundation Models on Heterogeneous Time Series](https://arxiv.org/abs/2412.08906)                                                     | AAAI |
 | 2025 | [](https://dl.acm.org/doi/10.1145/3696410.3714931)[Learning Disentangled Representation for Multi-Modal Time-Series Sensing Signals](https://dl.acm.org/doi/10.1145/3696410.3714931) | WWW  |
