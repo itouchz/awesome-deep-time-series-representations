@@ -1,19 +1,23 @@
 # Awesome Deep Time-Series Representations
 
-This is a repository to help all readers who are interested in learning universal representations of time series with deep learning. If your papers are missing or you have other requests, please post an issue, create a pull request, or contact _patara.t@kaist.ac.kr_.
-We will update this repository at a regular basis in accordance with the top-tier conference publication cycles to maintain up-to-date.
-> Next Batch: IJCAI 2025, ICDM 2025, ICDE 2025, CIKM 2025, KDD 2025, ICML 2025, NeurIPS 2025
+This repository is intended to help readers interested in learning universal representations of time series with deep learning. 
+
+Since the paper has been accepted by ACM Computing Surveys as the definitive version of record, we will update this repository regularly, in line with top-tier conference publication cycles, to keep it up to date _through **NeurIPS 2026**_. 
+After that, if your paper is missing or you have other requests, please open an issue, submit a pull request, or contact patara.t@kaist.ac.kr
+
+> Next Batch: IJCAI 2025, ICDM 2025, ICDE 2025, CIKM 2025, KDD 2025, ICML 2025, NeurIPS 2025 → NeurIPS 2026.
 
 ![time-series representation learning framework](https://github.com/user-attachments/assets/8285d348-752c-430e-9815-b8f13bf5fa41)
 
 
-**Accompanying Paper**: [Universal Time-Series Representation Learning: A Survey](https://arxiv.org/abs/2401.03717)
+**Accompanying Paper**: [Universal Time-Series Representation Learning: A Survey](https://dl.acm.org/doi/10.1145/3817600), Extended Version on [arXiv](https://arxiv.org/abs/2401.03717).
 ```bibtex
-@article{trirat2024universal,
-  title={Universal Time-Series Representation Learning: A Survey},
-  author={Patara Trirat and Yooju Shin and Junhyeok Kang and Youngeun Nam and Jihye Na and Minyoung Bae and Joeun Kim and Byunghyun Kim and Jae-Gil Lee},
-  journal={arXiv preprint arXiv:2401.03717},
-  year={2024}
+@article{trirat2026universal,
+  author = {Trirat, Patara and Shin, Yooju and Kang, Junhyeok and Nam, Youngeun and Na, Jihye and Bae, Minyoung and Kim, Joeun and Kim, Byunghyun and Lee, Jae-Gil},
+  title = {Universal Time-Series Representation Learning: A Survey},
+  year = {2026},
+  doi = {10.1145/3817600},
+  journal = {ACM Computing Surveys}
 }
 ```
 
