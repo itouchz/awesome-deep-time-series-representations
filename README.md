@@ -36,7 +36,7 @@ After that, if your paper is missing or you have other requests, please open an 
   - [Data-Centric Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#data-centric-approaches)
 - [Other Repositories](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#neighbor-repositories)
 
-## Related Surveys (Latest Update: July, 2024)
+## Related Surveys (Latest Update: May, 2026)
 
 ### Time-Series Data Mining and Analysis
 
@@ -88,7 +88,14 @@ After that, if your paper is missing or you have other requests, please open an 
 | [Empowering Time Series Analysis with Large Language Models: A Survey](https://arxiv.org/pdf/2402.03182.pdf)                                                              | University of Connecticut                                                                                        | arxiv                               | 2024     |
 | [A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model](https://arxiv.org/abs/2405.02358)                          | Hong Kong University of Science and Technology                                                                   | arxiv                               | 2024     |
 | [Position: What Can Large Language Models Tell Us about Time Series Analysis](https://openreview.net/forum?id=iroZNDxFJZ)                                                 | Griffith University, Chinese Academy of Sciences, The Hong Kong University of Science and Technology (Guangzhou) | ICML                                | 2024     |
-| [Deep Time Series Models: A Comprehensive Survey and Benchmark](https://arxiv.org/abs/2407.13278)                                                                         | Tsinghua University                                                                                              | arXiv                               | 2024     |
+| [Deep Time Series Models: A Comprehensive Survey and Benchmark](https://ieeexplore.ieee.org/abstract/document/11509648)                                                                         | Tsinghua University                                                                                              | IEEE TPAMI                               | 2026     |
+| [Empowering Time Series Analysis with Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2405.02358) | The Hong Kong University of Science and Technology (Guangzhou) | arXiv | 2024 |
+| [Multi-modal Time Series Analysis: A Tutorial and Survey](https://dl.acm.org/doi/abs/10.1145/3711896.3736567) | University of Connecticut | KDD | 2025 |
+| [Foundation Models for Time Series: A Survey](https://arxiv.org/abs/2504.04011) | Dell Technologies | arXiv | 2025 |
+| [How Can Time Series Analysis Benefit From Multiple Modalities? A Survey and Outlook](https://arxiv.org/abs/2503.11835) | Georgia Institute of Technology | arXiv | 2025 | 
+| [Out-of-Distribution Generalization in Time Series: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1566253526002150) | Southwest Jiaotong University | Information Fusion | 2026 |
+| [Empowering Time Series Analysis with Synthetic Data: A Survey and Outlook in the Era of Foundation Models](https://arxiv.org/abs/2503.11411) | Salesforce AI Research | arXiv | 2025 |
+
 
 ### Representation Learning
 
