@@ -16,8 +16,14 @@ After that, if your paper is missing or you have other requests, please open an 
   author = {Trirat, Patara and Shin, Yooju and Kang, Junhyeok and Nam, Youngeun and Na, Jihye and Bae, Minyoung and Kim, Joeun and Kim, Byunghyun and Lee, Jae-Gil},
   title = {Universal Time-Series Representation Learning: A Survey},
   year = {2026},
+  issue_date = {September 2026},
+  volume = {58},
+  number = {12},
   doi = {10.1145/3817600},
-  journal = {ACM Computing Surveys}
+  journal = {ACM Computing Surveys},
+  month = jun,
+  articleno = {321},
+  numpages = {40}
 }
 ```
 
