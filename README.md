@@ -40,6 +40,7 @@ After that, if your paper is missing or you have other requests, please open an 
   - [Neural Architectural Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#neural-architectural-approaches)
   - [Learning-Focused Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#learning-focused-approaches)
   - [Data-Centric Approaches](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#data-centric-approaches)
+- [Relevant Studies on Open Challenges](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#relevant-studies-on-open-challenges)
 - [Other Repositories](https://github.com/itouchz/awesome-deep-time-series-representations/tree/main#neighbor-repositories)
 
 ## Related Surveys (Latest Update: May, 2026)
@@ -356,6 +357,63 @@ After that, if your paper is missing or you have other requests, please open an 
 | 2025 | [](https://arxiv.org/abs/2401.04979)[DualDynamics: Synergizing Implicit and Explicit Methods for Robust Irregular Time Series Analysis](https://arxiv.org/abs/2401.04979)            | AAAI |
 | 2025 | [](https://dl.acm.org/doi/10.1145/3696410.3714931)[Learning Disentangled Representation for Multi-Modal Time-Series Sensing Signals](https://dl.acm.org/doi/10.1145/3696410.3714931) | WWW  |
 | 2025 | [](https://openreview.net/forum?id=8zJRon6k5v)[Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series](https://openreview.net/forum?id=8zJRon6k5v)  | ICLR |
+
+
+
+## Relevant Studies on Open Challenges
+
+### Time-Series Active Learning
+
+| **Title** | **Affiliation** | **Venue** | **Year** |
+| --- | --- | --- | --- |
+| [Coherence-based Label Propagation over Time Series for Accelerated Active Learning](https://openreview.net/forum?id=gjNcH0hj0LM) | KAIST | ICLR | 2021 |
+| [Are all frames equal? active sparse labeling for video action detection](https://dl.acm.org/doi/10.5555/3600270.3601314) | University of Central Florida | NeurIPS | 2022 |
+| [Active Learning Framework for Time-Series Classification of Vibration and Industrial Process Data](https://papers.phmsociety.org/index.php/phmconf/article/view/3059) | Viking Analytics | Annual Conference of the PHM Society | 2021 |
+| [Active learning for sampling in time-series experiments with application to gene expression analysis](https://dl.acm.org/doi/10.1145/1102351.1102456) | MIT | ICML | 2005 |
+
+### Distribution Shifts and Adaptation
+
+| **Title** | **Affiliation** | **Venue** | **Year** |
+| --- | --- | --- | --- |
+| [Concept Drift Detection in Data Stream Mining : A literature review](https://www.sciencedirect.com/science/article/pii/S1319157821003062) | Motilal Nehru National Institute of Technology Allahabad | Journal of King Saud University - Computer and Information Sciences | 2022|
+| [Recent Advances in Concept Drift Adaptation Methods for Deep Learning](https://www.ijcai.org/proceedings/2022/788) | Huazhong University of Science and Technology | IJCAI | 2022 |
+| [ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data](https://dl.acm.org/doi/10.1145/3587937) | Institute for Infocomm Research and Centre for Frontier AI Research | ACM TKDD |  2023 |
+| [Domain Adaptation for Time Series Forecasting via Attention Sharing](https://arxiv.org/abs/2102.06828) | University of California Santa Barbara, California | ICML | 2022 |
+| [Contrastive Learning for Unsupervised Domain Adaptation of Time Series](https://arxiv.org/abs/2206.06243) | ETH Zürich | ICLR | 2023 |
+| [Out-of-Distribution Generalization in Time Series: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1566253526002150) | Southwest Jiaotong University | Information Fusion | 2026 |
+
+
+### Reliable Data Augmentation
+
+| **Title** | **Affiliation** | **Venue** | **Year** |
+| --- | --- | --- | --- |
+| [Time series contrastive learning with information-aware augmentations](https://dl.acm.org/doi/10.1609/aaai.v37i4.25575) | Florida International University | AAAI | 2023 |
+| [Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning](https://openreview.net/forum?id=dbVRDk2wt7) | ETH Zurich | NeurIPS | 2023 |
+
+
+### Neural Architecture Search (NAS)
+
+| **Title** | **Affiliation** | **Venue** | **Year** |
+| --- | --- | --- | --- |
+| [Neural Architecture Search: Insights from 1000 Papers](https://arxiv.org/abs/2301.08727) | Abacus.AI | arXiv | 2023 |
+| [LightCTS: A Lightweight Framework for Correlated Time Series Forecasting](https://dl.acm.org/doi/10.1145/3589270) | Aalborg University | PACMMOD | 2023 |
+| [AutoTransformer: Automatic Transformer Architecture Design for Time Series Classification](https://dl.acm.org/doi/10.1007/978-3-031-05933-9_12) | Ant Group | PAKDD | 2022 | 
+| [PASTA: Neural Architecture Search for Anomaly Detection in Multivariate Time Series](https://ieeexplore.ieee.org/document/10787122) | KAIST | IEEE TETCI | 2024 |
+| [TFAS: zero-shot NAS for general time-series analysis with time-frequency aware scoring](https://link.springer.com/article/10.1007/s10994-025-06832-y) | DeepAuto.ai | Machine Learning | 2025 |
+
+### Multi-Modal Representation Learning
+
+| **Title** | **Affiliation** | **Venue** | **Year** |
+| --- | --- | --- | --- |
+| [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a) | OpenAI | ICML | 2021 |
+| [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://proceedings.mlr.press/v139/jia21b.html) | Google Research | ICML | 2021 |
+
+### Interpretability, Fairness, and Responsible Use
+
+| **Title** | **Affiliation** | **Venue** | **Year** |
+| --- | --- | --- | --- |
+| [Interpretable time series neural representation for classification purposes](https://ieeexplore.ieee.org/document/10302534) | Sorbonne Université | IEEE DSAA | 2023 |
+| [Time series representations classroom (TSRC): a teacher-student-based framework for interpretability-enhanced unsupervised time series representation learning](https://link.springer.com/article/10.1007/s10994-025-06895-x) | RWTH Aachen University | Machine Learning | 2025 |
 
 
 
